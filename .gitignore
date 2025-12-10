@@ -1,0 +1,9 @@
+# Ignore the specific database connection file in partials
+partials/_dbconnect.php
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
